@@ -6,3 +6,10 @@
     vertical-align: middle;
     padding: 2px;
 }
+.col_6>.col_2,
+.col_6 .col_2,
+.col_6 .col_8,
+.col_6 .col_6{
+    background-color: rgba(240, 127, 128, 1);
+    border: 1px solid white;
+}
